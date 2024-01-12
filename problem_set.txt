@@ -1,0 +1,10 @@
+1. Find all the unique "Wind Speed" values in the data?
+2. Find the number of times when the "weather" is exactly clear?
+3. Find the number of times when the "Wind Speed" was exactly 4 km/hr ?
+4. Find out all the Null values in the data ?
+5. Rename the column "Weather" of the dataframe to "Weather Condition"?
+6. Find all the instances when "Snow" was recorded?
+7. Find all the instances when the "Wind Speed" is above 24 and "visibility is 25"?
+8. Show all the records where the Weather Condition is Fog?
+9. Find all the instances when "Weather is Clear" or Visibility is above 40?
+10.  What is the Minimum & Maximum value of each column against each "Weather Condition" ?
