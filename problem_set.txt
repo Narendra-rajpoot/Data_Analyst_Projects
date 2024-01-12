@@ -1,10 +1,16 @@
-1. Find all the unique "Wind Speed" values in the data?
-2. Find the number of times when the "weather" is exactly clear?
-3. Find the number of times when the "Wind Speed" was exactly 4 km/hr ?
-4. Find out all the Null values in the data ?
-5. Rename the column "Weather" of the dataframe to "Weather Condition"?
-6. Find all the instances when "Snow" was recorded?
-7. Find all the instances when the "Wind Speed" is above 24 and "visibility is 25"?
-8. Show all the records where the Weather Condition is Fog?
-9. Find all the instances when "Weather is Clear" or Visibility is above 40?
-10.  What is the Minimum & Maximum value of each column against each "Weather Condition" ?
+1. Is there any duplicate record in the dataset? If yes, then remove the duplicate records?  
+2. Is there any Null value present in any column ? Show with the Heat map?¶           
+3. For "House of cards", what is the show id and who is the director of this show?
+4. In which year the highest number of TV shows and Movies were released? Show with bar graph?¶     
+
+5. How many Movies & TV shows are in the dataset? Show witht the graph?¶      
+6. Show all the Movies that were released in year 2020?     
+7. Show only the titles of all the TV show that were released in India only?
+8. Show top 10 directors , who gave the highest number of TV Shows & Movies to netflix?
+9. Show all the records where "category" is Movie and Type is "comedies" or country is "United Kingdom"?
+10. In How many movies /tv shows , tom cruise was casted?
+11. What are the different ratings defined by netflix dataset?
+12. How many Movies got the "TV-14" rating in Canada?
+13. How many TV shows got the "R" rating after year 2018?
+14. Which individual country has the highest number of tv shows?  
+15. How can we sort the dataset by Year?
